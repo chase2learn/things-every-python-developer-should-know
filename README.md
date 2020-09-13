@@ -24,17 +24,20 @@
 4. Python is a high-level (memory management isn’t obligatory), 
  portable (can be used on Windows, Linux, or Mac platform).
 
-5.  Graphical User Interfaces are easily created with the import of some libraries (for example PyQt5, which is the most widely used).
+5.  Graphical User Interfaces are easily created with the import of some 
+    libraries (for example PyQt5, which is the most widely used).
  
 ## 3. Why use Python?
-      Python is one of the most sought out programming languages nowadays, some of the reasons employers look for Python developers are:
+      Python is one of the most sought out programming languages nowadays,
+      some of the reasons employers look for Python developers are:
 
-1.       The code is easily readable so it can be used by teams and everyone can understand the code.
-It is also maintainable meaning it’s easier to maintain and update the code of a given application.
+1.  The code is easily readable so it can be used by teams and everyone can understand the code.
+        It is also maintainable meaning it’s easier to maintain and update the code of a given application.
 
-2.       It supports a number of features and is very beneficial for the computer as well as the developer(s).
+2.   It supports a number of features and is very beneficial for the computer as well as the developer(s).
         One example of those benefits is it has automatic memory management.
 
-3.       The standard library of Python is grand and has a range of modules which can be used according to what you need to do at the time.
+3.  The standard library of Python is grand and has a range of modules which can 
+      be used according to what you need to do at the time.
 
 for full article https://www.chase2learn.com/2020/08/things-every-python-developer-should-know.html
